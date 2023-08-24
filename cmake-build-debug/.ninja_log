@@ -1,0 +1,8 @@
+# ninja log v5
+5	266	7145572040679534	CMakeFiles/DesignPatterns.dir/src/CreationalPatterns/Singleton/Singleton.cpp.obj	d1a470a8f4799a0b
+1	136	7145572565581870	build.ninja	20e9ab8ca459dacc
+10	67	7145572038689502	CMakeFiles/DesignPatterns.dir/src/CreationalPatterns/Singleton/test.cpp.obj	4d31bc7ed7cbbc37
+0	264	7145572040649621	CMakeFiles/DesignPatterns.dir/main.cpp.obj	9bd4f7eed698d1fb
+0	124	7145572565581870	build.ninja	20e9ab8ca459dacc
+2	52	7145573476953500	CMakeFiles/DesignPatterns.dir/main.cpp.obj	9bd4f7eed698d1fb
+52	356	7145573479925511	DesignPatterns.exe	4b788a43b396d6e1

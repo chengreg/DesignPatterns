@@ -1,0 +1,21 @@
+# ninja log v5
+2	217	7145594799237027	CMakeFiles/Singleton.dir/Singleton.cpp.obj	7b83e3affdf74dfe
+380	708	7145652790532967	Singleton.exe	d6001a5a881b4a78
+2	379	7145652787301558	CMakeFiles/Singleton.dir/main.cpp.obj	7c0a528a584eabad
+8	76	7145638940182888	CMakeFiles/Singleton.dir/SingletonEager.cpp.obj	41362dd2d1f8cc66
+14	238	7145638941798572	CMakeFiles/Singleton.dir/SingletonLazy.cpp.obj	e591bde7cc248fd0
+9	260	7145667448720571	CMakeFiles/Singleton.dir/ConfigManager.cpp.obj	6e4db88d32d82535
+2	390	7145667450007739	CMakeFiles/Singleton.dir/main.cpp.obj	7c0a528a584eabad
+390	713	7145667453188619	Singleton.exe	89a1781da0bb2df3
+2	643	7145671615662217	CMakeFiles/Singleton.dir/main.cpp.obj	7c0a528a584eabad
+643	1005	7145671619222722	Singleton.exe	89a1781da0bb2df3
+3	653	7145672900276603	CMakeFiles/Singleton.dir/main.cpp.obj	7c0a528a584eabad
+653	1017	7145672903856996	Singleton.exe	89a1781da0bb2df3
+2	645	7145673111337925	CMakeFiles/Singleton.dir/main.cpp.obj	7c0a528a584eabad
+645	1017	7145673114998154	Singleton.exe	89a1781da0bb2df3
+3	668	7145673183817424	CMakeFiles/Singleton.dir/main.cpp.obj	7c0a528a584eabad
+668	1022	7145673187298124	Singleton.exe	89a1781da0bb2df3
+2	648	7145673939016764	CMakeFiles/Singleton.dir/main.cpp.obj	7c0a528a584eabad
+648	1012	7145673942597223	Singleton.exe	89a1781da0bb2df3
+2	637	7145675482879659	CMakeFiles/Singleton.dir/main.cpp.obj	7c0a528a584eabad
+637	996	7145675486420226	Singleton.exe	89a1781da0bb2df3
